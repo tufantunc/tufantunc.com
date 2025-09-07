@@ -1,0 +1,30 @@
+{
+  "name": "tufantunc",
+  "version": "1.0.0",
+  "description": "My personal website with experimental tools",
+  "keywords": [
+    "tufantunc",
+    "react",
+    "frontend"
+  ],
+  "homepage": "https://github.com/tufantunc/tufantunc.com#readme",
+  "bugs": {
+    "url": "https://github.com/tufantunc/tufantunc.com/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tufantunc/tufantunc.com.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
